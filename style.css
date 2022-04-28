@@ -1,0 +1,14 @@
+body {
+  margin: 30px;
+  border-width: 6px;
+  border-color: darkred;
+  border-style: solid;
+  padding: 20px;
+  background-color: darkblue;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
